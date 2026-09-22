@@ -111,3 +111,5 @@ Known gaps:
 - `flutter analyze` is clean apart from one pre-existing info in `pending_approval_screen.dart`.
 
 Detailed planning lives in [`URBANEAZE_FLUTTER_MASTERPLAN.md`](URBANEAZE_FLUTTER_MASTERPLAN.md); running progress notes in [`current_work.md`](current_work.md).
+
+Make sure to give us a Star
